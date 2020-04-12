@@ -7,11 +7,11 @@ import csis4463.*;
  * 
  * @author Eric Einhaus
  */
-public class Homework5Main {
+public class Tester {
 	
 	public static void main(String[] args) {
 		//Creating instance of hw5
-		Homework5 hw5 = new Homework5();
+		AStarMissingTiles hw5 = new AStarMissingTiles();
 		
 		//8 puzzle test cases for 2, 4, 6, 8, 10, and 12 moves remaining
 		SlidingTilePuzzle puzzle3_2 = new SlidingTilePuzzle(3, 3, 2);

@@ -7,7 +7,7 @@ import java.util.HashMap;
  * @author Eric Einhaus
  *
  */
-public class Homework5 {
+public class AStarMissingTiles {
 	
 	/**
 	 * Solves sliding tile puzzles with the algorithm of your choice.
